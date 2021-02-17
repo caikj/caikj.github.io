@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://caikj.github.io/</id>
     <title>菜坑记</title>
-    <updated>2021-02-17T12:47:04.925Z</updated>
+    <updated>2021-02-17T13:09:00.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://caikj.github.io/"/>
     <link rel="self" href="https://caikj.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://caikj.github.io/images/avatar.png</logo>
     <icon>https://caikj.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 菜坑记</rights>
+    <entry>
+        <title type="html"><![CDATA[esp8266踩坑记录]]></title>
+        <id>https://caikj.github.io/post/esp8266-cai-keng-ji-lu/</id>
+        <link href="https://caikj.github.io/post/esp8266-cai-keng-ji-lu/">
+        </link>
+        <updated>2021-02-17T12:57:26.000Z</updated>
+        <content type="html"><![CDATA[<p>刚买了个esp8266，还没到货先开坑（手动狗头）</p>
+]]></content>
+    </entry>
 </feed>
